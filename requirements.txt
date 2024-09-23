@@ -1,3 +1,7 @@
 streamlit 
 Pillow 
 html2image 
+selenium
+chromedriver-autoinstaller  # Automatically installs ChromeDriver
+pyppeteer  # if you're using pyppeteer
+
